@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\bin\Debug\net8.0-windows\Game Tebak Angka.exe
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\bin\Debug\net8.0-windows\Game Tebak Angka.deps.json
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\bin\Debug\net8.0-windows\Game Tebak Angka.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\bin\Debug\net8.0-windows\Game Tebak Angka.dll
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\bin\Debug\net8.0-windows\Game Tebak Angka.pdb
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\Game_Tebak_Angka.Form1.resources
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\Game Tebak Angka.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\Game Tebak Angka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\Game Tebak Angka.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\Game Tebak Angka.AssemblyInfo.vb
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\Game Tebak Angka.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\Game Tebak Angka.dll
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\refint\Game Tebak Angka.dll
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\Game Tebak Angka.pdb
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\Game Tebak Angka.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Game Tebak Angka\Game Tebak Angka\obj\Debug\net8.0-windows\ref\Game Tebak Angka.dll
